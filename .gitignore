@@ -1,0 +1,27 @@
+
+# Java / Spring Boot
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+
+# Node.js
+**/node_modules/
+**/.next/
+**/dist/
+**/build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

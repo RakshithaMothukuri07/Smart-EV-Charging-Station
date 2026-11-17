@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* POPPINS FONT FOR ENTIRE APP */
+* {
+    font-family: 'Poppins', sans-serif !important;
+  }
+  
+  /* Optional: Make text look sharper */
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }

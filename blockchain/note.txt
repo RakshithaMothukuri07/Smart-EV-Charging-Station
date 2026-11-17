@@ -1,0 +1,6 @@
+cmd
+python manage.py runserver
+
+if contracts changes:
+cd blocks
+npx truffle migrate
